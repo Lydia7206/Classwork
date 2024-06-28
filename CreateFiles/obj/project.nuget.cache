@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VpAaRCqG0kWEO78LoeclpGsAjrxSdi+s8fn0KEzH6tlUT9IEEWlmqQeocU6IrSecz/j3aXcd7kOf2+Q8YOI4Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LYDIA O. ARI\\Downloads\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LYDIA O. ARI\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LYDIA O. ARI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LYDIA O. ARI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LYDIA O. ARI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
